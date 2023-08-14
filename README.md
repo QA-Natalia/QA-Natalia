@@ -10,6 +10,7 @@
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/+375336073327)
 [![Header](https://img.shields.io/badge/Gmail-090909?style=for-the-badge&logo=gmail&logoColor=F9480B)(https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcRwRQQpCwSrpLnkSmXkQXsGCTDGkrZznQlLQFcLzdMXcWwfKqDXLhZFNKRRRWsfvkRGbLHXz)
 
+
 ### Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
