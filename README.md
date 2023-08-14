@@ -10,7 +10,6 @@
 ### Companies where I worked
 ### [AKDev](https://akdevgroup.com/)
 ### My projects in the company 
-
 - [Project 1](https://akdevgroup.com/portfolio/voice-diary/)
 - [Project 2](https://akdevgroup.com/portfolio/11dom/)
 - [Project 3](https://akdevgroup.com/portfolio/marinefields/)
@@ -18,7 +17,6 @@
 
 ### [Banuba](https://www.banuba.com/)
 ### My projects in the company 
-
 - [Project 1](https://www.banuba.com/facear-sdk/face-filters)
 - [Project 2](https://www.banuba.com/webar-sdk)
 
