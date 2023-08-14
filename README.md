@@ -1,4 +1,4 @@
-- Hi, I’m a QA Engineer
+- Hi, I’m a QA Engineer with 2 years experience
 - I’m currently looking for a job as a QA Engineer
 
 <!---
