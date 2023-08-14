@@ -2,8 +2,26 @@
 ## I’m currently looking for a job as a QA Engineer
 ## [Here's my CV](https://drive.google.com/file/d/1qj_c7lRrDfBeOSCnck4q4pyg9eqe3nS2/view?usp=sharing)
 
+
 ### Testing Documentation
 - [My works](https://drive.google.com/drive/folders/1CzlH0LMpzwGCh7_awnRZwhW8k2zbTU3i?usp=sharing)
+
+
+### Companies where I worked
+### [AKDev](https://akdevgroup.com/)
+### My projects in the company 
+
+- [Project 1](https://akdevgroup.com/portfolio/voice-diary/)
+- [Project 2](https://akdevgroup.com/portfolio/11dom/)
+- [Project 3](https://akdevgroup.com/portfolio/marinefields/)
+- [Project 4](https://akdevgroup.com/portfolio/robocash/)
+
+### [Banuba](https://www.banuba.com/)
+### My projects in the company 
+
+- [Project 1](https://www.banuba.com/facear-sdk/face-filters)
+- [Project 2](https://www.banuba.com/webar-sdk)
+
 
 ### My contacts
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/natalia-petrovich-b88908198/)
@@ -25,7 +43,6 @@
 ![Header](https://img.shields.io/badge/PerfDog-090909?style=for-the-badge&logo=perfdog&logoColor=028DEE)
 ![Header](https://img.shields.io/badge/Sublime%20Merge-090909?style=for-the-badge&logo=sublime%20merge&logoColor=028DEE)
 ![Header](https://img.shields.io/badge/BrowserStack-090909?style=for-the-badge&logo=browserstack&logoColor=028DEE)
-
 
 
 ### Learned but not used
