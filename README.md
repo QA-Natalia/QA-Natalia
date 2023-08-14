@@ -6,9 +6,9 @@
 - [My works](https://drive.google.com/drive/folders/1CzlH0LMpzwGCh7_awnRZwhW8k2zbTU3i?usp=sharing)
 
 ### My contacts
-![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)(https://www.linkedin.com/in/natalia-petrovich-b88908198/)
-![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)(https://t.me/+375336073327)
-![Header](https://img.shields.io/badge/Gmail-090909?style=for-the-badge&logo=gmail&logoColor=F9480B)(https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcRwRQQpCwSrpLnkSmXkQXsGCTDGkrZznQlLQFcLzdMXcWwfKqDXLhZFNKRRRWsfvkRGbLHXz)
+[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/natalia-petrovich-b88908198/)
+[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/+375336073327)
+[![Header](https://img.shields.io/badge/Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=BB001B%204285F4%20)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcRwRQQpCwSrpLnkSmXkQXsGCTDGkrZznQlLQFcLzdMXcWwfKqDXLhZFNKRRRWsfvkRGbLHXz)
 
 
 ### Tools
