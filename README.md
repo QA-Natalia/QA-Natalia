@@ -3,7 +3,7 @@
 ## [Here's my CV](https://drive.google.com/file/d/1qj_c7lRrDfBeOSCnck4q4pyg9eqe3nS2/view?usp=sharing)
 
 ### Testing Documentation
-- My works (https://drive.google.com/drive/folders/1CzlH0LMpzwGCh7_awnRZwhW8k2zbTU3i?usp=sharing)
+- [My works] (https://drive.google.com/drive/folders/1CzlH0LMpzwGCh7_awnRZwhW8k2zbTU3i?usp=sharing)
 
 ### My contacts
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/natalia-petrovich-b88908198/)
@@ -11,16 +11,16 @@
 [![Header](https://img.shields.io/badge/Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=BB001B%204285F4%20)](natallie.petrovich@gmail.com)
 
 ### Tools
-![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira)
-![Header](https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=github)
-![Header](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma)
-![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mySQL)
-![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome)
-![Header](https://img.shields.io/badge/Xcode-090909?style=for-the-badge&logo=xcode)
-![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio)
-![Header](https://img.shields.io/badge/Asana-090909?style=for-the-badge&logo=asana)
-![Header](https://img.shields.io/badge/TeamCity-090909?style=for-the-badge&logo=teamcity)
-![Header](https://img.shields.io/badge/Confluence-090909?style=for-the-badge&logo=confluence)
+![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
+![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=7d5fa6)
+![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
+![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
+![Header](https://img.shields.io/badge/Xcode-090909?style=for-the-badge&logo=Xcode&logoColor=%230000FF)
+![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
+![Header](https://img.shields.io/badge/Asana-090909?style=for-the-badge&logo=asana&logoColor=FD3D14)
+![Header](https://img.shields.io/badge/TeamCity-090909?style=for-the-badge&logo=teamcity&logoColor=FCFDFF)
+![Header](https://img.shields.io/badge/Confluence-090909?style=for-the-badge&logo=confluence&logoColor=028DEE)
 
 ### Learned but not used
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
