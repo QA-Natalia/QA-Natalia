@@ -1,4 +1,4 @@
-## Hi, I’m a QA Engineer with 2 years experience
+## Hi, I’m a QA Engineer with 2 years of commercial experience
 ## I’m currently looking for a job as a QA Engineer
 ## [Here's my CV](https://drive.google.com/file/d/1qj_c7lRrDfBeOSCnck4q4pyg9eqe3nS2/view?usp=sharing)
 
